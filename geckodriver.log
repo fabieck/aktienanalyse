@@ -1,0 +1,161 @@
+1594201224068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.L9nTKsKP2nSj"
+1594201225712	Marionette	INFO	Listening on port 36209
+1594201225772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594201237287	Marionette	INFO	Stopped listening on port 36209
+1594201253242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EbJctSr0zbbV"
+1594201254879	Marionette	INFO	Listening on port 34091
+1594201254952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.geeksforgeeks.org/ line 1 > scriptElement, line 1: TypeError: e is not a function
+1594201261638	Marionette	INFO	Stopped listening on port 34091
+1594201287423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.agc5ZPzkxwBr"
+1594201289078	Marionette	INFO	Listening on port 36399
+1594201289128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.yimg.com/oa/build/js/site-08ae4137.js, line 500: TypeError: IABData is null
+JavaScript error: https://in.finance.yahoo.com/quote/BAS.DE?guccounter=1, line 77: SyntaxError: "" literal not terminated before end of script
+JavaScript error: https://s.yimg.com/uc/finance/dd-site/js/vendor.89b895413fe597bcd7a6.modern.js, line 2: HttpError: Attempting to prefetch a non-content url
+1594201384241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F722jcSw2weC"
+1594201385914	Marionette	INFO	Stopped listening on port 36399
+1594201386015	Marionette	INFO	Listening on port 38723
+1594201386050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.yimg.com/oa/build/js/site-08ae4137.js, line 500: TypeError: IABData is null
+JavaScript error: https://consent.yahoo.com/consent, line 13: SyntaxError: expected expression, got '&'
+JavaScript error: https://consent.yahoo.com/consent, line 54: ReferenceError: $_mod_ybar is not defined
+1594201394378	Marionette	INFO	Stopped listening on port 38723
+1594201398428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.j3EBIK6f4Sq6"
+1594201400369	Marionette	INFO	Listening on port 33163
+1594201400454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.yimg.com/oa/build/js/site-08ae4137.js, line 500: TypeError: IABData is null
+1594201410101	Marionette	INFO	Stopped listening on port 33163
+1594201433362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.k585XV4lS5C0"
+1594201434974	Marionette	INFO	Listening on port 35493
+1594201435075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.yimg.com/oa/build/js/site-08ae4137.js, line 500: TypeError: IABData is null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200706/r20110914/client/qs_click_protection_fy2019.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+1594201470393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nGZ8lpBHn67H"
+1594201471904	Marionette	INFO	Stopped listening on port 35493
+1594201472362	Marionette	INFO	Listening on port 45273
+1594201472402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/3337035256572106527/index.html#t=501034887327448381&p=https%3A%2F%2F19f9483ca636d5f9ab8620c30146e3cd.safeframe.googlesyndication.com, line 172: TypeError: studio.Enabler is undefined
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript error: https://www.gstatic.com/mysidia/626ea103274e89b54371b14bf7e1b0a7.js?tag=video_mra/web_fig_och, line 174: SecurityError: The operation is insecure.
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript error: https://www.gstatic.com/mysidia/626ea103274e89b54371b14bf7e1b0a7.js?tag=video_mra/web_fig_och, line 174: SecurityError: The operation is insecure.
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript error: https://www.gstatic.com/mysidia/626ea103274e89b54371b14bf7e1b0a7.js?tag=video_mra/web_fig_och, line 174: SecurityError: The operation is insecure.
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+1594203687012	Marionette	INFO	Stopped listening on port 45273
+1594203859778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yqVLLGFrMCFy"
+1594203861385	Marionette	INFO	Listening on port 35919
+1594203861484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006121505/wrap.js, line 19: unreachable code after return statement
+1594204136043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RxSJQrSokFp5"
+1594204137637	Marionette	INFO	Listening on port 40667
+1594204137650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594204143850	Marionette	INFO	Stopped listening on port 40667
+1594204602354	Marionette	INFO	Stopped listening on port 35919
+1594304446170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6oa3A4jvRK1y"
+1594304447788	Marionette	INFO	Listening on port 42923
+1594304447875	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
